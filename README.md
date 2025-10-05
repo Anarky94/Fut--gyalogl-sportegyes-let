@@ -64,7 +64,7 @@ Az oldal célja, hogy az érdeklődők azonnal képet kapjanak a közösség sze
  ## Dalma - saját weboldala, Kazincbarcikai szakág kínálat
  Mivel a központi projekt a sportoláson van Borsod Abaúj Zemplén vármegyében és én Kazincbarcikán lakok, ezért úgy döntöttem, hogy létrehozok egy olyan oldalt, ahol kiemelem a város ünnepélyes eseményeit a Kolorfutással és a Tour De Hongrie-val. A kolorfutás nagyon híres megyei szinten és a Tour De Hongrie országosan, ezért választottam ki őket, hogy később akár egész Európában is tudjon róla minden érdeklődő. Az oldal célja, hogy bárki azonnal képet kapjon a közösség szellemiségéről, aktivitásáról és nyitottságáról.
 
-## 1. _Kezdőlap_
+## _Kezdőlap_
 A nyitóoldal átfogó képet ad a Kazincbarcikai szakágkínálatunkról és megjelennek rajta:
 
 - rövid bemutatkozó szövegek
@@ -81,7 +81,7 @@ A Nicepage programot választottam ki és azon belül készítettem a weboldalt 
 - **Tartalomkezelés:** kézzel szerkesztett tartalmak, képek és szövegek
 - **Elérhetőség:** publikus, böngészőből könnyen használható
 
-- ## __Projekt céljai_
+- ## _Projekt céljai_
 
 - Bemutatni a várost és híressé tenni
 - Segíteni az események kommunikációját, tájékoztatását
