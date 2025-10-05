@@ -81,7 +81,7 @@ A Nicepage programot választottam ki és azon belül készítettem a weboldalt 
 - **Tartalomkezelés:** kézzel szerkesztett tartalmak, képek és szövegek
 - **Elérhetőség:** publikus, böngészőből könnyen használható
 
-- ## _Projekt céljai_
+  ##_Projekt céljai_
 
 - Bemutatni a várost és híressé tenni
 - Segíteni az események kommunikációját, tájékoztatását
